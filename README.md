@@ -15,11 +15,6 @@ I'm passionate about software development and always eager to learn new technolo
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 - **Other:** Git, RESTful APIs
 
-### 📂 Featured Projects
-
-- [Awesome Project 1](#) - Brief description about what it does.
-- [Awesome Project 2](#) - Brief description about what it does.
-
 
 <!-- Optionally add the most used languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merymAydin&layout=compact)
