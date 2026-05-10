@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there, I'm Meryem!
 
-<!--
-**merymAydin/merymAydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development and always eager to learn new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Software developer with a focus on modern web technologies.
+- 🌱 Currently honing my skills in Full Stack Development.
+- 🎯 I love working on challenging projects and collaborating with other developers.
+
+### 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript, TypeScript, Java  
+- **Frameworks:** React, Node.js, Express, Next.js, Spring Boot  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Other:** Git, RESTful APIs
+
+### 📂 Featured Projects
+
+- [Awesome Project 1](#) - Brief description about what it does.
+- [Awesome Project 2](#) - Brief description about what it does.
+
+
+<!-- Optionally add the most used languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merymAydin&layout=compact)
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/meryem-aydin1/)
+- Email: aydnn.meryem@gmail.com
+
+Thanks for visiting my profile! ✨
